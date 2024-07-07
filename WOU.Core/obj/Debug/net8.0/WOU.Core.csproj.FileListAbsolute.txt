@@ -1,0 +1,11 @@
+D:\C#\Projects\API\RepositoryPattern0\WOU.Core\bin\Debug\net8.0\WOU.Core.deps.json
+D:\C#\Projects\API\RepositoryPattern0\WOU.Core\bin\Debug\net8.0\WOU.Core.dll
+D:\C#\Projects\API\RepositoryPattern0\WOU.Core\bin\Debug\net8.0\WOU.Core.pdb
+D:\C#\Projects\API\RepositoryPattern0\WOU.Core\obj\Debug\net8.0\WOU.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projects\API\RepositoryPattern0\WOU.Core\obj\Debug\net8.0\WOU.Core.AssemblyInfoInputs.cache
+D:\C#\Projects\API\RepositoryPattern0\WOU.Core\obj\Debug\net8.0\WOU.Core.AssemblyInfo.cs
+D:\C#\Projects\API\RepositoryPattern0\WOU.Core\obj\Debug\net8.0\WOU.Core.csproj.CoreCompileInputs.cache
+D:\C#\Projects\API\RepositoryPattern0\WOU.Core\obj\Debug\net8.0\WOU.Core.dll
+D:\C#\Projects\API\RepositoryPattern0\WOU.Core\obj\Debug\net8.0\refint\WOU.Core.dll
+D:\C#\Projects\API\RepositoryPattern0\WOU.Core\obj\Debug\net8.0\WOU.Core.pdb
+D:\C#\Projects\API\RepositoryPattern0\WOU.Core\obj\Debug\net8.0\ref\WOU.Core.dll

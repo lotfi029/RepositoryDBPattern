@@ -1,0 +1,17 @@
+D:\C#\Projects\API\RepositoryPattern0\WOU.EF\bin\Debug\net8.0\WOU.EF.deps.json
+D:\C#\Projects\API\RepositoryPattern0\WOU.EF\bin\Debug\net8.0\WOU.EF.dll
+D:\C#\Projects\API\RepositoryPattern0\WOU.EF\bin\Debug\net8.0\WOU.EF.pdb
+D:\C#\Projects\API\RepositoryPattern0\WOU.EF\obj\Debug\net8.0\WOU.EF.csproj.AssemblyReference.cache
+D:\C#\Projects\API\RepositoryPattern0\WOU.EF\obj\Debug\net8.0\WOU.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projects\API\RepositoryPattern0\WOU.EF\obj\Debug\net8.0\WOU.EF.AssemblyInfoInputs.cache
+D:\C#\Projects\API\RepositoryPattern0\WOU.EF\obj\Debug\net8.0\WOU.EF.AssemblyInfo.cs
+D:\C#\Projects\API\RepositoryPattern0\WOU.EF\obj\Debug\net8.0\WOU.EF.csproj.CoreCompileInputs.cache
+D:\C#\Projects\API\RepositoryPattern0\WOU.EF\obj\Debug\net8.0\WOU.EF.dll
+D:\C#\Projects\API\RepositoryPattern0\WOU.EF\obj\Debug\net8.0\refint\WOU.EF.dll
+D:\C#\Projects\API\RepositoryPattern0\WOU.EF\obj\Debug\net8.0\WOU.EF.pdb
+D:\C#\Projects\API\RepositoryPattern0\WOU.EF\obj\Debug\net8.0\ref\WOU.EF.dll
+D:\C#\Projects\API\RepositoryPattern0\WOU.EF\bin\Debug\net8.0\WOU.Core.dll
+D:\C#\Projects\API\RepositoryPattern0\WOU.EF\bin\Debug\net8.0\WOU.Core.pdb
+D:\C#\Projects\API\RepositoryPattern0\WOU.EF\obj\Debug\net8.0\WOU.EF.csproj.Up2Date
+D:\C#\Projects\API\RepositoryPattern0\WOU.EF\bin\Debug\net8.0\WOU.EF.runtimeconfig.json
+D:\C#\Projects\API\RepositoryPattern0\WOU.EF\obj\Debug\net8.0\WOU.EF.genruntimeconfig.cache

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Projects\\API\\RepositoryPattern0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8835F8-1C16-4037-AEC8-E530D9735CFA}|RepositoryPattern0\\RepositoryPattern0.csproj|d:\\c#\\projects\\api\\repositorypattern0\\repositorypattern0\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8835F8-1C16-4037-AEC8-E530D9735CFA}|RepositoryPattern0\\RepositoryPattern0.csproj|solutionrelative:repositorypattern0\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D85888B-B6DA-495A-ACF8-D5B0CFA1119D}|WOU.Core\\WOU.Core.csproj|d:\\c#\\projects\\api\\repositorypattern0\\wou.core\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D85888B-B6DA-495A-ACF8-D5B0CFA1119D}|WOU.Core\\WOU.Core.csproj|solutionrelative:wou.core\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7BE156-1656-4A86-B8B9-AA89959C9A7D}|WOU.EF\\WOU.EF.csproj|d:\\c#\\projects\\api\\repositorypattern0\\wou.ef\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7BE156-1656-4A86-B8B9-AA89959C9A7D}|WOU.EF\\WOU.EF.csproj|solutionrelative:wou.ef\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D85888B-B6DA-495A-ACF8-D5B0CFA1119D}|WOU.Core\\WOU.Core.csproj|d:\\c#\\projects\\api\\repositorypattern0\\wou.core\\dto\\authorwithbooksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D85888B-B6DA-495A-ACF8-D5B0CFA1119D}|WOU.Core\\WOU.Core.csproj|solutionrelative:wou.core\\dto\\authorwithbooksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D85888B-B6DA-495A-ACF8-D5B0CFA1119D}|WOU.Core\\WOU.Core.csproj|d:\\c#\\projects\\api\\repositorypattern0\\wou.core\\dto\\authorwitharticlesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D85888B-B6DA-495A-ACF8-D5B0CFA1119D}|WOU.Core\\WOU.Core.csproj|solutionrelative:wou.core\\dto\\authorwitharticlesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D85888B-B6DA-495A-ACF8-D5B0CFA1119D}|WOU.Core\\WOU.Core.csproj|d:\\c#\\projects\\api\\repositorypattern0\\wou.core\\dto\\bookandarticlesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D85888B-B6DA-495A-ACF8-D5B0CFA1119D}|WOU.Core\\WOU.Core.csproj|solutionrelative:wou.core\\dto\\bookandarticlesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D85888B-B6DA-495A-ACF8-D5B0CFA1119D}|WOU.Core\\WOU.Core.csproj|d:\\c#\\projects\\api\\repositorypattern0\\wou.core\\interfaces\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D85888B-B6DA-495A-ACF8-D5B0CFA1119D}|WOU.Core\\WOU.Core.csproj|solutionrelative:wou.core\\interfaces\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D85888B-B6DA-495A-ACF8-D5B0CFA1119D}|WOU.Core\\WOU.Core.csproj|d:\\c#\\projects\\api\\repositorypattern0\\wou.core\\dto\\authorwithbookandarticlesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D85888B-B6DA-495A-ACF8-D5B0CFA1119D}|WOU.Core\\WOU.Core.csproj|solutionrelative:wou.core\\dto\\authorwithbookandarticlesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorWithBooksDTO.cs",
+              "DocumentMoniker": "D:\\C#\\Projects\\API\\RepositoryPattern0\\WOU.Core\\DTO\\AuthorWithBooksDTO.cs",
+              "RelativeDocumentMoniker": "WOU.Core\\DTO\\AuthorWithBooksDTO.cs",
+              "ToolTip": "D:\\C#\\Projects\\API\\RepositoryPattern0\\WOU.Core\\DTO\\AuthorWithBooksDTO.cs",
+              "RelativeToolTip": "WOU.Core\\DTO\\AuthorWithBooksDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:28:43.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorWithArticlesDTO.cs",
+              "DocumentMoniker": "D:\\C#\\Projects\\API\\RepositoryPattern0\\WOU.Core\\DTO\\AuthorWithArticlesDTO.cs",
+              "RelativeDocumentMoniker": "WOU.Core\\DTO\\AuthorWithArticlesDTO.cs",
+              "ToolTip": "D:\\C#\\Projects\\API\\RepositoryPattern0\\WOU.Core\\DTO\\AuthorWithArticlesDTO.cs",
+              "RelativeToolTip": "WOU.Core\\DTO\\AuthorWithArticlesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:28:37.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "D:\\C#\\Projects\\API\\RepositoryPattern0\\RepositoryPattern0\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "RepositoryPattern0\\Controllers\\AuthorController.cs",
+              "ToolTip": "D:\\C#\\Projects\\API\\RepositoryPattern0\\RepositoryPattern0\\Controllers\\AuthorController.cs*",
+              "RelativeToolTip": "RepositoryPattern0\\Controllers\\AuthorController.cs*",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwDgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:02:32.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookAndArticlesDTO.cs",
+              "DocumentMoniker": "D:\\C#\\Projects\\API\\RepositoryPattern0\\WOU.Core\\DTO\\BookAndArticlesDTO.cs",
+              "RelativeDocumentMoniker": "WOU.Core\\DTO\\BookAndArticlesDTO.cs",
+              "ToolTip": "D:\\C#\\Projects\\API\\RepositoryPattern0\\WOU.Core\\DTO\\BookAndArticlesDTO.cs",
+              "RelativeToolTip": "WOU.Core\\DTO\\BookAndArticlesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:16:24.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorWithBookAndArticlesDTO.cs",
+              "DocumentMoniker": "D:\\C#\\Projects\\API\\RepositoryPattern0\\WOU.Core\\DTO\\AuthorWithBookAndArticlesDTO.cs",
+              "RelativeDocumentMoniker": "WOU.Core\\DTO\\AuthorWithBookAndArticlesDTO.cs",
+              "ToolTip": "D:\\C#\\Projects\\API\\RepositoryPattern0\\WOU.Core\\DTO\\AuthorWithBookAndArticlesDTO.cs",
+              "RelativeToolTip": "WOU.Core\\DTO\\AuthorWithBookAndArticlesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:11:07.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\C#\\Projects\\API\\RepositoryPattern0\\WOU.Core\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "WOU.Core\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "D:\\C#\\Projects\\API\\RepositoryPattern0\\WOU.Core\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "WOU.Core\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:54:36.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IArticleRepository.cs",
+              "DocumentMoniker": "D:\\C#\\Projects\\API\\RepositoryPattern0\\WOU.Core\\Interfaces\\IArticleRepository.cs",
+              "RelativeDocumentMoniker": "WOU.Core\\Interfaces\\IArticleRepository.cs",
+              "ToolTip": "D:\\C#\\Projects\\API\\RepositoryPattern0\\WOU.Core\\Interfaces\\IArticleRepository.cs",
+              "RelativeToolTip": "WOU.Core\\Interfaces\\IArticleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:54:31.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "D:\\C#\\Projects\\API\\RepositoryPattern0\\WOU.EF\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "WOU.EF\\Repositories\\AuthorRepository.cs",
+              "ToolTip": "D:\\C#\\Projects\\API\\RepositoryPattern0\\WOU.EF\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "WOU.EF\\Repositories\\AuthorRepository.cs",
+              "ViewState": "AQIAAPEAAAAAAAAAAAAWwPsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:26:37.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

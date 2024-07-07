@@ -1,0 +1,140 @@
+[
+  {
+    "ContainingType": "RepositoryPattern0.Controllers.AuthorController",
+    "Method": "GetAll",
+    "RelativePath": "api/Author",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPattern0.Controllers.AuthorController",
+    "Method": "GetByIdAuthorWithArticlesAndBooks",
+    "RelativePath": "api/Author/AuthorWithArticlesAndBooksById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPattern0.Controllers.AuthorController",
+    "Method": "GetByNameAuthorWithArticlesAndBooks",
+    "RelativePath": "api/Author/AuthorWithArticlesAndBooksByName/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPattern0.Controllers.AuthorController",
+    "Method": "GetByIdAuthorWithArticles",
+    "RelativePath": "api/Author/AuthorWithArticlesById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPattern0.Controllers.AuthorController",
+    "Method": "GetByNameAuthorWithArticles",
+    "RelativePath": "api/Author/AuthorWithArticlesByName/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPattern0.Controllers.AuthorController",
+    "Method": "GetByIdAuthorWithBooks",
+    "RelativePath": "api/Author/AuthorWithBooksById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPattern0.Controllers.AuthorController",
+    "Method": "GetByNameAuthorWithBooks",
+    "RelativePath": "api/Author/AuthorWithBooksByName/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPattern0.Controllers.AuthorController",
+    "Method": "Get",
+    "RelativePath": "api/Author/byId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPattern0.Controllers.AuthorController",
+    "Method": "Get",
+    "RelativePath": "api/Author/byName/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
